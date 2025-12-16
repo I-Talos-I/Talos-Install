@@ -21,7 +21,7 @@ tar -xzf talos-linux-x64.tar.gz
 ### 2️⃣ Enter the package directory
 
 ```bash
-cd talos-package
+cd Talos-Instal
 ```
 
 ### 3️⃣ Grant execution permissions
